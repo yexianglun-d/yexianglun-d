@@ -7,7 +7,7 @@ English | [中文](#中文)
 I am a Java / Kotlin developer from China, currently exploring backend engineering and IntelliJ IDEA plugin development.
 
 I like building practical developer tools and small engineering utilities.
-At the moment, I am learning and practicing with Java 21, Spring Boot, Redis, Kotlin, Linux, and the IntelliJ Platform SDK.
+At the moment, I am learning and practicing with Java 21, Spring Boot, Redis, MySQL, Docker, Linux, Maven, Kotlin, Node.js, Python, Vue, and the IntelliJ Platform SDK.
 
 I hope to turn repeated development pain points into simple tools, clearer workflows, and reusable engineering patterns.
 
@@ -16,8 +16,8 @@ I hope to turn repeated development pain points into simple tools, clearer workf
   - [idea-achievement-plugin](https://github.com/yexianglun-d/idea-achievement-plugin), a code statistics and achievement tracking plugin for IntelliJ IDEA.
   - [idea-jsonutilities-plugin](https://github.com/yexianglun-d/idea-jsonutilities-plugin), an IntelliJ IDEA plugin for handling messy, escaped, or malformed JSON strings.
   - [linux-practice](https://github.com/yexianglun-d/linux-practice), a terminal-first Linux practical learning platform.
-- I am also learning backend infrastructure, Redis cache usage, Linux terminal workflows, and plugin UI design.
-- I am interested in developer tools, productivity plugins, backend engineering, clean code, and AI-assisted development.
+- I am also learning backend infrastructure, Redis cache usage, MySQL data modeling, Docker workflows, Linux terminal workflows, and plugin UI design.
+- I am interested in developer tools, productivity plugins, backend engineering, clean code, AI, NLP, LLMs, Cocos, and UE5.
 - Be free to check my repositories [here](https://github.com/yexianglun-d?tab=repositories).
 
 ---
@@ -40,8 +40,9 @@ I hope to turn repeated development pain points into simple tools, clearer workf
 <code><img height="20" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" /></code>
 <code><img height="20" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" /></code>
 <code><img height="20" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/css/663399" alt="CSS" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" /></code>
 <code><img height="20" src="https://cdn.simpleicons.org/yaml/CB171E" alt="YAML" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
@@ -53,13 +54,20 @@ I hope to turn repeated development pain points into simple tools, clearer workf
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <code><img height="20" src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" /></code>
 <code><img height="20" src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" /></code>
 <code><img height="20" src="https://cdn.simpleicons.org/apachemaven/C71A36" alt="Maven" /></code>
 <code><img height="20" src="https://cdn.simpleicons.org/intellijidea/000000" alt="IntelliJ IDEA" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/webstorm/000000" alt="WebStorm" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/rider/000000" alt="Rider" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/datagrip/000000" alt="DataGrip" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/androidstudio/3DDC84" alt="Android Studio" /></code>
 <code><img height="20" src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" /></code>
 <code><img height="20" src="https://cdn.simpleicons.org/git/F05032" alt="Git" /></code>
 <code><img height="20" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual Studio Code" /></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- tools:end -->
@@ -69,11 +77,11 @@ I hope to turn repeated development pain points into simple tools, clearer workf
 <!-- interested:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="20" src="https://cdn.simpleicons.org/jetbrains/000000" alt="JetBrains" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/openai/412991" alt="AI" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/markdown/000000" alt="Markdown" /></code>
+<code><img height="20" src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=googlegemini&logoColor=white" alt="AI" /></code>
+<code><img height="20" src="https://img.shields.io/badge/NLP-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="NLP" /></code>
+<code><img height="20" src="https://img.shields.io/badge/LLM-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LLM" /></code>
+<code><img height="20" src="https://img.shields.io/badge/Cocos-55C2E1?style=flat-square&logo=cocos&logoColor=white" alt="Cocos" /></code>
+<code><img height="20" src="https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="UE5" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- interested:end -->
@@ -97,13 +105,14 @@ You can follow me to see more Java backend practice, IntelliJ IDEA plugins, and 
 
 你好，我是 **yexianglun-d**。
 
-我目前主要关注 **Java 后端开发、Kotlin、IntelliJ IDEA 插件开发、Spring Boot、Redis、Linux 实战** 等方向。
+我目前主要关注 **Java 21 后端开发、Kotlin、IntelliJ IDEA 插件开发、Spring Boot、Redis、MySQL、Docker、Linux 实战、Maven、Node.js、Python、Vue** 等方向。
 
 我喜欢把开发中重复、麻烦、容易出错的事情，整理成更清晰的小工具、插件或工程化方案。
 
 - 最近在做：IDEA 插件、Java 后端工具、Linux 实战学习。
-- 正在学习：Java 21、Spring Boot、Redis、Kotlin、IntelliJ Platform SDK。
-- 感兴趣：开发者工具、效率插件、后端工程化、AI 辅助开发。
+- 正在学习：Java 21、Spring Boot、Redis、MySQL、Docker、Linux、Kotlin、IntelliJ Platform SDK。
+- 常用工具：IntelliJ IDEA、WebStorm、Rider、DataGrip、VS Code、Android Studio、Git。
+- 感兴趣：开发者工具、效率插件、后端工程化、AI、NLP、LLM、Cocos、UE5。
 
 <!--
 TODO:
