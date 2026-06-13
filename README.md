@@ -1,193 +1,113 @@
-<div align="center">
-
-# Hi there, I'm yexianglun-d
-
-### Java / Kotlin Developer · IntelliJ IDEA Plugin Builder · Backend Learner
+### Hi there, I'm [yexianglun-d](https://github.com/yexianglun-d)（Zhao Tiezhu）.
 
 English | [中文](#中文)
 
-I am a developer who enjoys building practical tools for developers.
-At the moment, I am mainly exploring Java backend engineering, Kotlin, Spring Boot, Redis, and IntelliJ Platform plugin development.
+<img align="right" width="200" src="https://avatars.githubusercontent.com/u/136771925?v=4">
 
-I like turning repeated development pain points into small tools, plugins, and reusable engineering patterns.
+I am a Java / Kotlin developer from China, currently exploring backend engineering and IntelliJ IDEA plugin development.
 
-![Profile Views](https://komarev.com/ghpvc/?username=yexianglun-d&style=flat-square&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/yexianglun-d?style=flat-square&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/yexianglun-d?style=flat-square&logo=github)
+I like building practical developer tools and small engineering utilities.
+At the moment, I am learning and practicing with Java 21, Spring Boot, Redis, Kotlin, Linux, and the IntelliJ Platform SDK.
 
-</div>
+I hope to turn repeated development pain points into simple tools, clearer workflows, and reusable engineering patterns.
 
----
-
-## About Me
-
-<table>
-  <tr>
-    <td width="58%">
-
-- Currently building: IntelliJ IDEA plugins and Java backend utilities
-- Learning: Java 21, Spring Boot, Redis, Kotlin, Linux, engineering patterns
-- Interested in: developer tools, productivity plugins, backend infrastructure, clean code
-- Focus: making coding workflows smoother, clearer, and a little more enjoyable
-- Open to: useful tooling ideas, plugin ideas, and backend practice projects
-
-    </td>
-    <td width="42%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yexianglun-d&show_icons=true&hide_border=true&rank_icon=github)
-
-    </td>
-  </tr>
-</table>
-
-## Tech Stack
-
-<div align="center">
-
-![Skills](https://skillicons.dev/icons?i=java,kotlin,js,ts,html,css,spring,redis,mysql,maven,linux,idea,git,github,vscode&perline=8)
-
-</div>
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### Backend & Tools
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-## What I Am Building
-
-| Direction | What I care about |
-| --- | --- |
-| IntelliJ IDEA plugins | Better coding experience, code statistics, JSON utilities, productivity tools |
-| Java backend | Clear service structure, reusable utilities, stable engineering patterns |
-| Linux practice | Terminal-first learning, practical commands, development environment fluency |
-| Open source | Small but useful projects that can be improved step by step |
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/yexianglun-d/under-utils">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yexianglun-d&repo=under-utils&hide_border=true" alt="under-utils" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/yexianglun-d/linux-practice">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yexianglun-d&repo=linux-practice&hide_border=true" alt="linux-practice" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/yexianglun-d/idea-achievement-plugin">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yexianglun-d&repo=idea-achievement-plugin&hide_border=true" alt="idea-achievement-plugin" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/yexianglun-d/idea-jsonutilities-plugin">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yexianglun-d&repo=idea-jsonutilities-plugin&hide_border=true" alt="idea-jsonutilities-plugin" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-### Project Notes
-
-| Project | Tech | Description |
-| --- | --- | --- |
-| [under-utils](https://github.com/yexianglun-d/under-utils) | Java 21, Spring Boot | Engineering-pattern utilities: context propagation, rate limiting, Redis cache, OpenAPI clients, AI clients, pagination, import workflows |
-| [linux-practice](https://github.com/yexianglun-d/linux-practice) | Java, Linux | A terminal-first Linux practical learning platform |
-| [idea-achievement-plugin](https://github.com/yexianglun-d/idea-achievement-plugin) | Kotlin, IntelliJ Platform SDK | Code statistics and achievement tracking plugin for IntelliJ IDEA |
-| [idea-jsonutilities-plugin](https://github.com/yexianglun-d/idea-jsonutilities-plugin) | Kotlin, IntelliJ Platform SDK | IntelliJ IDEA plugin for handling messy, escaped, or malformed JSON strings |
-| [Spring-BootDay06_E-mail](https://github.com/yexianglun-d/Spring-BootDay06_E-mail) | Java, Spring Boot, Redis | Email verification practice project with Redis |
-| [create-x-app](https://github.com/yexianglun-d/create-x-app) | JavaScript | App scaffolding / practice project |
-| [pet-life](https://github.com/yexianglun-d/pet-life) | Java | Java practice project |
-
-## Learning Roadmap
-
-```text
-Java basics -> Spring Boot -> Redis/MySQL -> Engineering patterns
-          \-> Kotlin -> IntelliJ Platform SDK -> Developer tools
-          \-> Linux -> Terminal workflow -> Deployment practice
-```
-
-## GitHub Activity
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yexianglun-d&layout=compact&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yexianglun-d&hide_border=true)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=yexianglun-d&theme=flat&no-frame=true&margin-w=8&margin-h=8&column=4)
-
-</div>
-
-## Repository Map
-
-| Category | Repositories |
-| --- | --- |
-| Developer tools | [idea-achievement-plugin](https://github.com/yexianglun-d/idea-achievement-plugin), [idea-jsonutilities-plugin](https://github.com/yexianglun-d/idea-jsonutilities-plugin) |
-| Backend practice | [under-utils](https://github.com/yexianglun-d/under-utils), [Spring-BootDay06_E-mail](https://github.com/yexianglun-d/Spring-BootDay06_E-mail), [pet-life](https://github.com/yexianglun-d/pet-life) |
-| Learning projects | [linux-practice](https://github.com/yexianglun-d/linux-practice), [create-x-app](https://github.com/yexianglun-d/create-x-app) |
-| Profile / verification | [yexianglun-d](https://github.com/yexianglun-d/yexianglun-d), [dadomrdzxp](https://github.com/yexianglun-d/dadomrdzxp) |
-
-## Contact
-
-- GitHub: [@yexianglun-d](https://github.com/yexianglun-d)
-- Blog: TODO
-- Email: TODO
-- Bilibili: TODO
-
-<!--
-You can replace the TODO items above with your real public links.
-If you want a style closer to YunYouJun's profile, prepare:
-1. A short Chinese bio for the GitHub sidebar
-2. Location
-3. Public email or website
-4. Blog / Bilibili / X links
-5. Optional personal mascot or illustration image
--->
+- I am currently working on some open source and practice projects:
+  - [under-utils](https://github.com/yexianglun-d/under-utils), Spring Boot engineering-pattern utilities for Java 21.
+  - [idea-achievement-plugin](https://github.com/yexianglun-d/idea-achievement-plugin), a code statistics and achievement tracking plugin for IntelliJ IDEA.
+  - [idea-jsonutilities-plugin](https://github.com/yexianglun-d/idea-jsonutilities-plugin), an IntelliJ IDEA plugin for handling messy, escaped, or malformed JSON strings.
+  - [linux-practice](https://github.com/yexianglun-d/linux-practice), a terminal-first Linux practical learning platform.
+- I am also learning backend infrastructure, Redis cache usage, Linux terminal workflows, and plugin UI design.
+- I am interested in developer tools, productivity plugins, backend engineering, clean code, and AI-assisted development.
+- Be free to check my repositories [here](https://github.com/yexianglun-d?tab=repositories).
 
 ---
 
-<h2 id="中文">中文</h2>
+#### Languages
+
+<!-- github-stats:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=yexianglun-d&show_icons=true&icon_color=0969da&title_color=0969da&include_all_commits=true"/>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- github-stats:end -->
+
+<!-- languages:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<code><img height="20" src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="Java" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/yaml/CB171E" alt="YAML" /></code>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- languages:end -->
+
+#### Frameworks and Tools
+
+<!-- tools:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<code><img height="20" src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/apachemaven/C71A36" alt="Maven" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/intellijidea/000000" alt="IntelliJ IDEA" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/git/F05032" alt="Git" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual Studio Code" /></code>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- tools:end -->
+
+#### Interested
+
+<!-- interested:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<code><img height="20" src="https://cdn.simpleicons.org/jetbrains/000000" alt="JetBrains" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/openai/412991" alt="AI" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx" /></code>
+<code><img height="20" src="https://cdn.simpleicons.org/markdown/000000" alt="Markdown" /></code>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- interested:end -->
+
+> By the way, this README layout is inspired by [YunYouJun/YunYouJun](https://github.com/YunYouJun/YunYouJun), with content adapted for my own repositories and learning direction.
+
+---
+
+You can find how to contact me in the sidebar.
+You can follow me to see more Java backend practice, IntelliJ IDEA plugins, and developer tooling experiments.
+
+#### Repository Map
+
+- Developer tools: [idea-achievement-plugin](https://github.com/yexianglun-d/idea-achievement-plugin), [idea-jsonutilities-plugin](https://github.com/yexianglun-d/idea-jsonutilities-plugin)
+- Backend practice: [under-utils](https://github.com/yexianglun-d/under-utils), [Spring-BootDay06_E-mail](https://github.com/yexianglun-d/Spring-BootDay06_E-mail), [pet-life](https://github.com/yexianglun-d/pet-life)
+- Learning projects: [linux-practice](https://github.com/yexianglun-d/linux-practice), [create-x-app](https://github.com/yexianglun-d/create-x-app)
+
+---
+
+#### 中文
 
 你好，我是 **yexianglun-d**。
 
-目前主要关注 **Java 后端开发、Kotlin、IntelliJ IDEA 插件开发、Spring Boot、Redis、Linux 实战** 等方向。
+我目前主要关注 **Java 后端开发、Kotlin、IntelliJ IDEA 插件开发、Spring Boot、Redis、Linux 实战** 等方向。
 
 我喜欢把开发中重复、麻烦、容易出错的事情，整理成更清晰的小工具、插件或工程化方案。
 
-### 最近在做
+- 最近在做：IDEA 插件、Java 后端工具、Linux 实战学习。
+- 正在学习：Java 21、Spring Boot、Redis、Kotlin、IntelliJ Platform SDK。
+- 感兴趣：开发者工具、效率插件、后端工程化、AI 辅助开发。
 
-- IntelliJ IDEA 插件：代码统计、成就系统、JSON 工具
-- Java 后端工程实践：通用工具、限流、缓存、分页、导入流程
-- Linux 实战学习：更熟悉终端环境和开发部署流程
-
-### 之后想继续完善
-
-- 把插件做得更稳定、更好看、更容易使用
-- 总结 Java 后端常见工程模式
-- 补充项目文档、演示图和使用说明
-- 建立自己的博客或知识库
-
-<div align="center">
-
-Thanks for visiting.
-
-</div>
+<!--
+TODO:
+- 如果你有博客、邮箱、Bilibili 或个人网站，可以在 GitHub 侧栏里补充。
+- 如果你想换右侧图片，把顶部 img 的 src 替换为你的公开图片链接。
+- 如果你想加 Sponsors / Backers，需要先开通对应能力或准备真实赞助数据。
+-->
