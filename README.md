@@ -54,12 +54,9 @@ I care about practical engineering more than isolated snippets. Most of my publi
     </td>
   </tr>
   <tr>
-    <td width="46%" valign="top" align="center">
-      <h3>Most Used Languages</h3>
-    </td>
-    <td width="54%" valign="top">
+    <td colspan="2" valign="top">
       <p align="center">
-        <img width="92%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexianglun-d&layout=compact&langs_count=8&hide_border=true&title_color=0969da" alt="Top languages for yexianglun-d" />
+        <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexianglun-d&layout=compact&langs_count=8&card_width=760&hide_border=true&title_color=0969da" alt="Top languages for yexianglun-d" />
       </p>
     </td>
   </tr>
