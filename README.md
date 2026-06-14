@@ -16,6 +16,52 @@ I care about practical engineering more than isolated snippets. Most of my publi
   <a href="https://central.sonatype.com/artifact/io.github.yexianglun-d/under-utils-starter"><img src="https://img.shields.io/maven-central/v/io.github.yexianglun-d/under-utils-starter?label=under-utils&style=flat-square&color=2563eb" alt="under-utils Maven Central version"></a>
 </p>
 
+## Quick Stack & Snapshot
+
+<table>
+  <tr>
+    <td width="46%" valign="top">
+      <h3>Core Stack</h3>
+      <p>
+        <code><img height="20" src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="Java" /></code>
+        <code><img height="20" src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" /></code>
+        <code><img height="20" src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" /></code>
+        <code><img height="20" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" /></code>
+        <code><img height="20" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" /></code>
+        <code><img height="20" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" /></code>
+        <code><img height="20" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" /></code>
+        <code><img height="20" src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" /></code>
+        <code><img height="20" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" /></code>
+        <code><img height="20" src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" /></code>
+        <code><img height="20" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" /></code>
+        <code><img height="20" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" /></code>
+        <code><img height="20" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" /></code>
+        <code><img height="20" src="https://cdn.simpleicons.org/apachemaven/C71A36" alt="Maven" /></code>
+        <code><img height="20" src="https://cdn.simpleicons.org/gradle/02303A" alt="Gradle" /></code>
+        <code><img height="20" src="https://cdn.simpleicons.org/intellijidea/000000" alt="IntelliJ IDEA" /></code>
+      </p>
+      <ul>
+        <li><strong>Backend:</strong> Java 21, Spring Boot, Maven, MyBatis-Plus, Redis, Redisson.</li>
+        <li><strong>Tooling:</strong> Node.js CLI, npm packages, Gradle, IntelliJ Platform SDK.</li>
+        <li><strong>Product:</strong> Vue 3, Vite, React, Flutter, Dart, Docker, Linux.</li>
+      </ul>
+    </td>
+    <td width="54%" valign="top">
+      <h3>GitHub Snapshot</h3>
+      <p>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yexianglun-d&show_icons=true&include_all_commits=true&hide_border=true&title_color=0969da&icon_color=0969da" alt="GitHub stats for yexianglun-d" />
+      </p>
+      <p>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexianglun-d&layout=compact&langs_count=8&hide_border=true&title_color=0969da" alt="Top languages for yexianglun-d" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yexianglun-d&theme=github" alt="GitHub profile summary for yexianglun-d" />
+</p>
+
 ## About Me
 
 - I mainly write **Java 21 / Spring Boot** backend code, with attention to module boundaries, public APIs, failure semantics, testability, and release compatibility.
@@ -122,64 +168,6 @@ I also use Kotlin and the IntelliJ Platform SDK to explore IDE productivity tool
 | IDE tools | [idea-jsonutilities-plugin](https://github.com/yexianglun-d/idea-jsonutilities-plugin), [idea-achievement-plugin](https://github.com/yexianglun-d/idea-achievement-plugin) | Kotlin + IntelliJ Platform SDK productivity experiments. |
 | Account and release setup | [dadomrdzxp](https://github.com/yexianglun-d/dadomrdzxp) | Maven Central namespace verification. |
 
-## Stack
-
-### Languages
-
-<!-- languages:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="Java" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/css/663399" alt="CSS" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/yaml/CB171E" alt="YAML" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- languages:end -->
-
-### Frameworks and Runtime
-
-<!-- frameworks:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/astro/FF5D01" alt="Astro" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/electron/47848F" alt="Electron" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- frameworks:end -->
-
-### Data, Infrastructure, and Tooling
-
-<!-- tools:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/apachemaven/C71A36" alt="Maven" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/gradle/02303A" alt="Gradle" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/intellijidea/000000" alt="IntelliJ IDEA" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/webstorm/000000" alt="WebStorm" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/datagrip/000000" alt="DataGrip" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/git/F05032" alt="Git" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- tools:end -->
-
 ## Engineering Notes
 
 I usually design projects around these questions:
@@ -202,25 +190,6 @@ For CLI and tooling projects, I care about the full workflow: prompt design, env
 - Use `pet-life` and `linux-practice` to practice product-level delivery across backend, web, mobile, docs, and verification.
 - Keep building IntelliJ IDEA plugins around frequent development friction points.
 - Continue documenting public projects so the repository itself can explain the design decisions.
-
-## GitHub Snapshot
-
-<!-- github-stats:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yexianglun-d&show_icons=true&include_all_commits=true&hide_border=true&title_color=0969da&icon_color=0969da" alt="GitHub stats for yexianglun-d" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexianglun-d&layout=compact&langs_count=8&hide_border=true&title_color=0969da" alt="Top languages for yexianglun-d" />
-</p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yexianglun-d&theme=github" alt="GitHub profile summary for yexianglun-d" />
-</p>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yexianglun-d&theme=github-compact&hide_border=true" alt="GitHub activity graph for yexianglun-d" />
-</p>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- github-stats:end -->
 
 ## Contact
 
